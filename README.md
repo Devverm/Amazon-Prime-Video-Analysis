@@ -1,6 +1,6 @@
 # 🎬 Amazon Prime Video Dashboard | Power BI
 
-![Dashboard Preview](https://github.com/Devverm/Amazon-Prime-Video-Analysis/blob/main/Amazon_Prime_Video_Analysis.png)
+![Dashboard Preview](Amazon_Prime_Vedio_Analysis.png)
 
 ## 📌 Overview
 
